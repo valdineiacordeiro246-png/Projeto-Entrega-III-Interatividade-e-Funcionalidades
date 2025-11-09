@@ -1,9 +1,18 @@
 # Projeto-Entrega-III-Interatividade-e-Funcionalidades
-Projeto desenvolvimento para Entrega ||| da disciplina de Desenvolvimento Front- End,  com foco em interatividade e fucionalidades 
- Descrição: Projeto completo em Vanilla JS que implementa um SPA básico, sistema de templates em
- JavaScript, verificação de consistência de dados em formulários com avisos ao usuário, e estrutura
- modular de arquivos pronta para subir no GitHub.
- Estrutura de pastas sugerida
+Este projeto foi desenvolvido com parte da diciplina de Desenvolvimento web 
+
+## Fucionalidades
+cadastro de usuarios 
+envio de formulares intregação com banco de dados 
+
+ ## Tecnologia utilizada 
+HTML
+CSS
+JavScript
+
+## Autora 
+Valdineia Cordeiro Reinaldo 
+
  entregaIII/
  ├─ index.html
  ├─ README.md
@@ -322,6 +331,6 @@ inicializado
  git add .
  git commit -m "Entrega III - primeira versão"
  # criar repositório público no GitHub via web e copiar a URL, por exemplo:
- # git remote add origin https://github.com/SEU_USUARIO/entregaIII.git
+ # git remote add origin https://github.com/valdineiacordeiro246-png/entregaIII.git
  git branch -M main
  git push -u origin main
